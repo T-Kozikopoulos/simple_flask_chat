@@ -1,4 +1,4 @@
-"""No comments on this one, since it's such a basic example of a Flask app."""
+"""No comments on this one, since it's such a basic implementation of a Flask app using SocketIO."""
 
 from flask import Flask, render_template
 from flask_socketio import SocketIO
